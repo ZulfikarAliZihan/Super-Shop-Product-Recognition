@@ -1,0 +1,19 @@
+item {
+  id: 1
+  name: 'Chocolate-Cake'
+}
+
+item {
+  id: 2
+  name: 'pops-biscuits'
+}
+
+item {
+  id: 3
+  name: 'Toothpaste'
+}
+
+item {
+  id: 4
+  name: 'Multimeter'
+}
