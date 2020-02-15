@@ -3,7 +3,7 @@
 
 #YouTube
 
-[![Link to my YouTube video!](https://i9.ytimg.com/vi/znSLsL_lpCE/mq3.jpg?sqp=CM3s3O8F&rs=AOn4CLAo4yppMbTUaC5BTGtNwYTni-JxTQ)](https://youtu.be/2x0mnCw5o74)
+[![Super-Shop-Product-Recognition](https://img.youtube.com/vi/2x0mnCw5o74&t=4s/0.jpg)](https://www.youtube.com/watch?v=2x0mnCw5o74&t=4s)
 
 
 
